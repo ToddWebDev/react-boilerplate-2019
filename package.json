@@ -1,5 +1,5 @@
 {
-  "name": "react-boilerplate",
+  "name": "react-boilerplate-2019",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -16,16 +16,9 @@
       "pre-commit": "pretty-quick --staged && npm run lint && npm run test"
     }
   },
-  "author": "",
+  "author": "Todd WebDev <webdevtodd@gmail.com> (http://www.toddrizzolo.com)",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/avanslaars/egghead-react-boilerplate.git"
-  },
   "keywords": [],
-  "bugs": {
-    "url": "https://github.com/avanslaars/egghead-react-boilerplate/issues"
-  },
   "homepage": "https://github.com/avanslaars/egghead-react-boilerplate#readme",
   "devDependencies": {
     "@babel/cli": "^7.1.5",
@@ -64,5 +57,12 @@
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
     "react-hot-loader": "^4.3.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToddWebDev/react-boilerplate-2019.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ToddWebDev/react-boilerplate-2019/issues"
   }
 }
