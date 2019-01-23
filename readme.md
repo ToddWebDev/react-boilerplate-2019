@@ -34,7 +34,7 @@
 7. Create a new repository on GitHub.com
 8. Use `remote add origin` with the url in it as specified in your GitHub repo directions
 9. Push to your new master with `git push -u origin master`
-10. Open your `package.json` file and edit the original "name" and remove the "repository" and "bugs" attributes so that they can link to your own repository
-11. Run `npm init -y` to preview changes
+10. Open your `package.json` file and edit the original "name" and remove the "homepage", "repository" and "bugs" attributes so that they can link to your own repository
+11. Run `npm init -y` to to update fields for "homepage", "repository", and "bugs" to your new remote and preview
 12. Update `readme.md`
 13. 🚀Run your _deveopment_ environment with `npm run dev` to run your new react app
