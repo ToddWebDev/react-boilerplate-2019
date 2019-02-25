@@ -37,4 +37,4 @@
 10. Open your `package.json` file and edit the original "name" and remove the "homepage", "repository" and "bugs" attributes so that they can link to your own repository
 11. Run `npm init -y` to to update fields for "homepage", "repository", and "bugs" to your new remote and preview
 12. Update `readme.md`
-13. 🚀Run your _deveopment_ environment with `npm run dev` to run your new react app
+13. 🚀 Run your _development_ environment with `npm run dev` to run your new react app
